@@ -1,6 +1,6 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="100%" alt="Hello, I'm Koteswara Rao Nadikoti" src="https://github.com/KoteswararaoNadikoti/koteswara-Rao/blob/main/20240121_202139.jpg" /></a></p>
 
-<h1 align="center"><img src="https://github.com/KoteswararaoNadikoti/koteswara-Rao/blob/main/1ad45624ffb766ef637cb7906a1da33b.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">Hey! <img src="https://github.com/KoteswararaoNadikoti/koteswara-Rao/blob/main/1ad45624ffb766ef637cb7906a1da33b.gif?1531849430" width="30"/> Nice to see you.</h1>
 
 <br />
 
