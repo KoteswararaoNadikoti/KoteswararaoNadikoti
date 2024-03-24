@@ -18,7 +18,7 @@ I'm a passionate Data Analyst 📅
 <br />
 <br />
 
-<a href="[https://twitter.com/anuraghazru](https://www.linkedin.com/in/koteswararaonadikotii/)">
+<a href="(https://www.linkedin.com/in/koteswararaonadikotii/)">
   <img align="right" alt="Koteswara Rao Nadikoti | Linkedin" width="21px" src="https://raw.githubusercontent.com/KoteswararaoNadikoti/koteswara-Rao/main/20240228_122923.png" />
 </a>
 
