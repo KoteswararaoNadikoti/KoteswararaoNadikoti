@@ -14,7 +14,7 @@ I'm a passionate Data Analyst 📅
 
 - All of my projects are available at <a href="https://koteswararaonadikoti.netlify.app/"> https://koteswararaonadikoti.netlify.app <a/>
 
-- How to reach me <a href="kotikoteswararao9999@gmail.com">kotikoteswararao9999@gmail.com</a>
+- How to reach me <a href="kotikoteswararao9999@gmail.com" target="new">kotikoteswararao9999@gmail.com</a>
 
 
 <br />
