@@ -12,6 +12,8 @@ I'm a passionate Data Analyst 📅
 
 - I'm skilled in **Excel**, **Power BI**, & **SQL**
 
+- All of my projects are available at <a href="https://koteswararaonadikoti.netlify.app/"> https://koteswararaonadikoti.netlify.app <a/>
+
 - How to reach me <a href="kotikoteswararao9999@gmail.com">kotikoteswararao9999@gmail.com</a>
 
 
