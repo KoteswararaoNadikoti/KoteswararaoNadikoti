@@ -2,10 +2,7 @@
 
 <h1 align="center">Hey! <img src="https://github.com/KoteswararaoNadikoti/koteswara-Rao/blob/main/1ad45624ffb766ef637cb7906a1da33b.gif?1531849430" width="30"/> Nice to see you.</h1>
 
-<br />
-
-
-I'm a passionate Data Analyst 📅
+<h3 align="center"> Passionate Data Analyst | Exploring the World of Data </h3>
 
 
 **About me**
@@ -16,8 +13,9 @@ I'm a passionate Data Analyst 📅
 
 - How to reach me <a href="kotikoteswararao9999@gmail.com" target="new">kotikoteswararao9999@gmail.com</a>
 
+- Fun Fact **Data Analysts can detect patterns in Data faster than you can say "algorithm"!**
 
-<br />
+
 <br />
 
 <a href="(https://www.linkedin.com/in/koteswararaonadikotii/)">
